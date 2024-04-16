@@ -1,5 +1,5 @@
 // jenkins file 
 
 pipelines {
-   // some groovy code 
+   // some sample groovy code 
 }
